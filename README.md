@@ -1,4 +1,4 @@
-### 공사중
+<img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="80" height="25"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" width="80" height="25"/> <img src="https://img.shields.io/badge/ubuntu 20.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="80" height="25"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logocolor=white" width="80" height="25"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logocolor=white" width="80" height="25">
 
 <!--
 **Freeeeeeeeeze/Freeeeeeeeeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
